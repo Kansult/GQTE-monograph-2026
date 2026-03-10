@@ -1,0 +1,20 @@
+# --- LaTeX Temporary Files ---
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# --- V-Lisp & HPC Cache ---
+*.log
+*.cache
+*.tmp
+.doudna_sync/
+.lattice_cache/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
